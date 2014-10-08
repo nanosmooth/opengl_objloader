@@ -1,11 +1,3 @@
-/*
-Tejus
-Institution: JSSATE, Bangalore
-Semester: 6 
-Year: 2011
-www.objinopengl.blogspot.com
-*/
-
 //header
 
 #include<GL/gl.h>
